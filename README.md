@@ -6,10 +6,10 @@ Welcome to our AI-powered Transcriber and Summarizer project! 🤖🎙️
 Ever wondered how to quickly get a transcript and summary from a YouTube video? Look no further! Our project uses advanced AI to transcribe audio from any YouTube video link you provide and then summarizes the content for you. Let's make catching up on videos a breeze! 😉
 
 # Features
-YouTube Audio Downloader: Fetches the audio from a YouTube video for processing.
-Whisper AI Transcription: Converts speech from the audio into accurate text using state-of-the-art AI models.
-Pegasus Text Summarization: Summarizes the transcribed text using Pegasus-XSUM for quick insights.
-ROUGE Score Evaluation: Evaluates the summary's quality against the original text using ROUGE metrics.
+1. YouTube Audio Downloader: Fetches the audio from a YouTube video for processing.
+2. Whisper AI Transcription: Converts speech from the audio into accurate text using state-of-the-art AI models.
+3. Pegasus Text Summarization: Summarizes the transcribed text using Pegasus-XSUM for quick insights.
+4. ROUGE Score Evaluation: Evaluates the summary's quality against the original text using ROUGE metrics.
 
 # YouTube Video Used
 

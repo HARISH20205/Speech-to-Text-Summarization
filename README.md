@@ -1,4 +1,4 @@
-# Speech-to-Text-Summarization-
+# Speech-to-Text-Summarization
 
 Welcome to our AI-powered Transcriber and Summarizer project! 🤖🎙️
 
@@ -10,14 +10,6 @@ YouTube Audio Downloader: Fetches the audio from a YouTube video for processing.
 Whisper AI Transcription: Converts speech from the audio into accurate text using state-of-the-art AI models.
 Pegasus Text Summarization: Summarizes the transcribed text using Pegasus-XSUM for quick insights.
 ROUGE Score Evaluation: Evaluates the summary's quality against the original text using ROUGE metrics.
-
-# How It Works
-Provide YouTube URL: Input the URL of the YouTube video you want to transcribe.
-Get Transcription: The system downloads the audio, transcribes it using AI, and provides the text output.
-Automated Summarization: Summarizes the transcribed text to highlight the key points.
-View Evaluation Scores: Check the ROUGE scores to gauge the accuracy and quality of the summary.
-Example
-Let's walk through using a recent interview from a tech event:
 
 # YouTube Video Used
 
